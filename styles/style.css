@@ -141,3 +141,7 @@ body {
     top: -123px;
     left: calc(100% - 991px);
 }
+
+.why {
+    background-image: url("../images/whybg.png");
+}
